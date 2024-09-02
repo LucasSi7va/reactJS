@@ -1,0 +1,17 @@
+img{
+  padding: 50px;
+}
+
+ul{
+  list-style: none;
+}
+
+.api{
+  list-style: number;
+  border: 1px solid black;
+}
+
+*{
+  background-color: black;
+  color: white;
+}
